@@ -1,6 +1,14 @@
 .bg-banner {
   background-color: #264653;
 }
-.custom-btn {
+/* common utilities  */
+.bg-orrange {
   background-color: #e76f51;
+}
+.text-orrange {
+  color: #e76f51;
+}
+/* feture section  */
+.feature-gray {
+  filter: grayscale(100%);
 }
